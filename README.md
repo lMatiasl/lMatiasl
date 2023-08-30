@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lMatiasl
-- 👀 I’m interested becoming a good programmer.
+- 👀 I’m interested in becoming a good programmer.
 - 🌱 I’m 29 years old.
 - 💞️ I’m looking for a party team for programming!
 - 📫 How to reach me: matias.alarcono@mayor.cl
